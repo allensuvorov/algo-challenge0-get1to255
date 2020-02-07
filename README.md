@@ -1,0 +1,1 @@
+Write a function that returns an array with all the numbers from 1 to 255.
